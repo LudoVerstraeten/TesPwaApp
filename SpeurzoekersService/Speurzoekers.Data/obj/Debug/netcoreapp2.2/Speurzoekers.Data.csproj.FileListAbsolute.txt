@@ -1,0 +1,12 @@
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Data\bin\Debug\netcoreapp2.2\Speurzoekers.Data.deps.json
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Data\bin\Debug\netcoreapp2.2\Speurzoekers.Data.dll
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Data\bin\Debug\netcoreapp2.2\Speurzoekers.Data.pdb
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Data\bin\Debug\netcoreapp2.2\Speurzoekers.Common.dll
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Data\bin\Debug\netcoreapp2.2\Speurzoekers.Common.pdb
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Data\obj\Debug\netcoreapp2.2\Speurzoekers.Data.csprojAssemblyReference.cache
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Data\obj\Debug\netcoreapp2.2\Speurzoekers.Data.csproj.CoreCompileInputs.cache
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Data\obj\Debug\netcoreapp2.2\Speurzoekers.Data.AssemblyInfoInputs.cache
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Data\obj\Debug\netcoreapp2.2\Speurzoekers.Data.AssemblyInfo.cs
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Data\obj\Debug\netcoreapp2.2\Speurzoekers.Data.csproj.CopyComplete
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Data\obj\Debug\netcoreapp2.2\Speurzoekers.Data.dll
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Data\obj\Debug\netcoreapp2.2\Speurzoekers.Data.pdb

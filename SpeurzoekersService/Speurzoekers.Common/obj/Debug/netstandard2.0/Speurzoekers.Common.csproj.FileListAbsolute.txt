@@ -1,0 +1,9 @@
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Common\bin\Debug\netstandard2.0\Speurzoekers.Common.deps.json
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Common\bin\Debug\netstandard2.0\Speurzoekers.Common.dll
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Common\bin\Debug\netstandard2.0\Speurzoekers.Common.pdb
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Common\obj\Debug\netstandard2.0\Speurzoekers.Common.csprojAssemblyReference.cache
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Common\obj\Debug\netstandard2.0\Speurzoekers.Common.csproj.CoreCompileInputs.cache
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Common\obj\Debug\netstandard2.0\Speurzoekers.Common.AssemblyInfoInputs.cache
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Common\obj\Debug\netstandard2.0\Speurzoekers.Common.AssemblyInfo.cs
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Common\obj\Debug\netstandard2.0\Speurzoekers.Common.dll
+C:\src\SpeurZoekers\SpeurzoekersService\Speurzoekers.Common\obj\Debug\netstandard2.0\Speurzoekers.Common.pdb

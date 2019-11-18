@@ -1,0 +1,17 @@
+C:\src\SpeurZoekers\SpeurzoekersService\DataSeeder\bin\Debug\netcoreapp2.2\appsettings.json
+C:\src\SpeurZoekers\SpeurzoekersService\DataSeeder\bin\Debug\netcoreapp2.2\DataSeeder.deps.json
+C:\src\SpeurZoekers\SpeurzoekersService\DataSeeder\bin\Debug\netcoreapp2.2\DataSeeder.runtimeconfig.json
+C:\src\SpeurZoekers\SpeurzoekersService\DataSeeder\bin\Debug\netcoreapp2.2\DataSeeder.runtimeconfig.dev.json
+C:\src\SpeurZoekers\SpeurzoekersService\DataSeeder\bin\Debug\netcoreapp2.2\DataSeeder.dll
+C:\src\SpeurZoekers\SpeurzoekersService\DataSeeder\bin\Debug\netcoreapp2.2\DataSeeder.pdb
+C:\src\SpeurZoekers\SpeurzoekersService\DataSeeder\bin\Debug\netcoreapp2.2\Speurzoekers.Common.dll
+C:\src\SpeurZoekers\SpeurzoekersService\DataSeeder\bin\Debug\netcoreapp2.2\Speurzoekers.Data.dll
+C:\src\SpeurZoekers\SpeurzoekersService\DataSeeder\bin\Debug\netcoreapp2.2\Speurzoekers.Data.pdb
+C:\src\SpeurZoekers\SpeurzoekersService\DataSeeder\bin\Debug\netcoreapp2.2\Speurzoekers.Common.pdb
+C:\src\SpeurZoekers\SpeurzoekersService\DataSeeder\obj\Debug\netcoreapp2.2\DataSeeder.csprojAssemblyReference.cache
+C:\src\SpeurZoekers\SpeurzoekersService\DataSeeder\obj\Debug\netcoreapp2.2\DataSeeder.csproj.CoreCompileInputs.cache
+C:\src\SpeurZoekers\SpeurzoekersService\DataSeeder\obj\Debug\netcoreapp2.2\DataSeeder.AssemblyInfoInputs.cache
+C:\src\SpeurZoekers\SpeurzoekersService\DataSeeder\obj\Debug\netcoreapp2.2\DataSeeder.AssemblyInfo.cs
+C:\src\SpeurZoekers\SpeurzoekersService\DataSeeder\obj\Debug\netcoreapp2.2\DataSeeder.csproj.CopyComplete
+C:\src\SpeurZoekers\SpeurzoekersService\DataSeeder\obj\Debug\netcoreapp2.2\DataSeeder.dll
+C:\src\SpeurZoekers\SpeurzoekersService\DataSeeder\obj\Debug\netcoreapp2.2\DataSeeder.pdb
